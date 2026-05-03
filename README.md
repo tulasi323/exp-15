@@ -28,5 +28,3 @@ This repository is created for practicing GitHub version control operations.
 
 Tulasi Chunduri
 
-
-
