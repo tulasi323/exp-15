@@ -26,5 +26,7 @@ This repository is created for practicing GitHub version control operations.
 
 \## Author
 
-Tulasi
+Tulasi Chunduri
+
+
 
